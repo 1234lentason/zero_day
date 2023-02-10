@@ -1,1 +1,1 @@
-get name and information about current kernel
+writes to standard output the name of the operating system that you are using
